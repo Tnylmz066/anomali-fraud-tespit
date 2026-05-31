@@ -13,6 +13,10 @@ __pycache__/
 *.xlsm
 *.csv
 
+# Word/ofis belgeleri (tez vb. kisisel dokumanlar public repoya yanlislikla yuklenmesin)
+*.docx
+*.doc
+
 # Loglar ve gecici dosyalar (gelistirme sirasinda olusan _ ile baslayan dosyalar)
 *.log
 _ui_shots/
