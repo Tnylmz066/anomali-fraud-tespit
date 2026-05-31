@@ -1,0 +1,8 @@
+tensorflow-cpu==2.15.1
+numpy<2.0
+pandas
+scikit-learn
+matplotlib>=3.7
+seaborn
+openpyxl
+PyQt5

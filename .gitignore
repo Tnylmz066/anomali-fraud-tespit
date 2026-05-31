@@ -1,0 +1,25 @@
+# Sanal ortam (her bilgisayarda KUR.bat ile yeniden olusturulur)
+.venv/
+
+# Python onbellek
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Veri dosyalari ve Excel ciktilari
+# (kisisel/gizli veriyi yanlislikla GitHub'a gondermemek icin)
+*.xlsx
+*.xls
+*.xlsm
+*.csv
+
+# Loglar ve gecici dosyalar (gelistirme sirasinda olusan _ ile baslayan dosyalar)
+*.log
+_ui_shots/
+_*.py
+_*.ps1
+
+# Isletim sistemi
+Thumbs.db
+desktop.ini
+.DS_Store
